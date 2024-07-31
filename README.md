@@ -1,23 +1,18 @@
-# Toy MDP simulator
+# Brain Trainer App
 
-Visualise the optimal policies in a toy mdp described by you.
-
-## Overview
-
-MDPs provide a structured way to analyze decision-making under uncertainty, offering insights into optimal decision strategies and behavior in complex environments. Here you can define a toy mdp visually and get the optimal policies calculated.
+Checks your response time with randomly generated numbers.
 
 ## Features
 
-- Schematic of the MDP
-- View the transition probability model
-- Get the optimal policy mappings from each state at your discount factor
+- Timer based analysis
+- Unpredictable and fun calculations
+- Practise for fast maths
 
 ## Screenshots
 
 <div style="display: flex; flex-direction: row; justify-content: space-around;">
-    <img src="https://github.com/harsh-choudhary-nature/mdp/blob/main/Screenshot_2024-07-31-21-45-29-076_com.example.mdp.jpg" alt="Screenshot 1" width="250" />
-    <img src="https://github.com/harsh-choudhary-nature/mdp/blob/main/Screenshot_2024-07-31-21-45-49-959_com.example.mdp.jpg" alt="Screenshot 2" width="250" />
-    <img src="https://github.com/harsh-choudhary-nature/mdp/blob/main/Screenshot_2024-07-31-21-46-08-263_com.example.mdp.jpg" alt="Screenshot 3" width="250" />
+    <img src="https://github.com/harsh-choudhary-nature/Brain-Trainer/blob/main/Screenshot_2024-07-31-21-47-35-222_com.example.braintrainer.jpg" alt="Screenshot 1" width="300" />
+    <img src="https://github.com/harsh-choudhary-nature/Brain-Trainer/blob/main/Screenshot_2024-07-31-21-47-44-872_com.example.braintrainer.jpg" alt="Screenshot 2" width="300" />
 </div>
 
 ## Contributing
